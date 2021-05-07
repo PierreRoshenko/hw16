@@ -1,0 +1,25 @@
+{
+    "name": "hw16",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "webpack-cli": "^4.6.0",
+        "webpack": "^5.31.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PierreRoshenko/hw16.git"
+    },
+    "author": "martyn",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PierreRoshenko/hw16/issues"
+    },
+    "homepage": "https://github.com/PierreRoshenko/hw16#readme"
+}
